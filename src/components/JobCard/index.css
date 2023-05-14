@@ -1,0 +1,94 @@
+.job-detail-contianer {
+    background-color: #272727;
+    list-style-type: none;
+    width: 700px;
+    height: 400px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 13px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .company-logo {
+    height: 80px;
+    width: 75px;
+  }
+  .list-header-container {
+    display: flex;
+    align-items: center;
+    height: 150px;
+  }
+  .title-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+    height: 100px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+  }
+  .title {
+    font-size: 15px;
+    color: white;
+  }
+  .star-container {
+    display: flex;
+    align-items: center;
+    padding-bottom: 30px;
+  }
+  .star-icon {
+    font-size: 20px;
+    color: gold;
+    margin-bottom: 10px;
+  }
+  .rating {
+    color: white;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-bottom: 30px;
+  }
+  .list-line {
+    width: 100%;
+  }
+  .job-specifin-container {
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #f1f5f9;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .location-details {
+    display: flex;
+  }
+  .row-container {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+  }
+  .text {
+    margin-left: 10px;
+  }
+  .icon {
+    font-size: 20px;
+  }
+  .descri-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .description {
+    color: #f1f5f9;
+    font-size: 17px;
+    margin-left: 10px;
+  }
+  .desc {
+    color: #f1f5f9;
+    font-size: 15px;
+  }
+  

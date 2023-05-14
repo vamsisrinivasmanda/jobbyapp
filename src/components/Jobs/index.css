@@ -1,0 +1,21 @@
+.job-container {
+    padding: 20px;
+    background-color: #000000;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .job-search-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .search-job-input {
+    height: 40px;
+    width: 400px;
+    margin-left: 60px;
+    padding: 10px;
+  }
+  

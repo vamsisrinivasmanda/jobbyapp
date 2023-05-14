@@ -1,0 +1,33 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 30px;
+    background-image: url(https://assets.ccbp.in/frontend/react-js/home-lg-bg.png);
+    background-size: cover;
+    height: 90vh;
+  }
+  .heading {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 60px;
+  }
+  .desc {
+    color: #cbd5e1;
+    font-size: 25px;
+    margin-left: 60px;
+  }
+  .findjob-btn {
+    margin-left: 60px;
+    height: 40px;
+    width: 130px;
+    background-color: #6366f1;
+    color: white;
+    border-radius: 8px;
+    border: 0px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
